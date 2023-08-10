@@ -1,3 +1,15 @@
+# 1.0.0 (2023-08-10)
+
+
+### Bug Fixes
+
+* **docs:** Update README.md ([8b53952](https://github.com/truzzt/truzzt-keycloak-themes/commit/8b53952bd0ecb7199f3cc8cc3b352d3efb24ee0a))
+
+
+### Features
+
+* adds MDS theme ([d83a5e8](https://github.com/truzzt/truzzt-keycloak-themes/commit/d83a5e8810c553d6a904b06ee3983e85ae3e9fb4))
+
 # 1.0.0 (2023-07-31)
 
 
